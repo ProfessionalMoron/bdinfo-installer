@@ -20,4 +20,4 @@ Once the scan is done it will make a text file in /home/user/bdinfo/
 
 
 example of a successful run  
-<blockquote class="imgur-embed-pub" lang="en" data-id="3ieki3u"><a href="https://imgur.com/3ieki3u">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[img]https://i.imgur.com/3ieki3u.png[/img]
