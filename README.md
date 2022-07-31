@@ -4,7 +4,7 @@ bdinfo-installer
 Needs swizzin and debian 11/10  
 Installs, mono, nuget and bdinfo. Makes alias in your .bashrc for fast runs.  
 
-How to run; 
+How to run;   
 sudo su -  
   and then  
 bash <(curl -sL https://gist.githubusercontent.com/ProfessionalMoron/d7261203a1cd307c8c367340a7e0b6bc/raw/8043adf333b1680fe38e43dc876eb163006021e1/bdinfo_installer.sh)
