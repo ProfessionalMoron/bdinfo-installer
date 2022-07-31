@@ -20,4 +20,4 @@ Once the scan is done it will make a text file in /home/user/bdinfo/
 
 
 example of a successful run  
-https://imgur.com/j5gaEEA
+https://imgur.com/3ieki3u
